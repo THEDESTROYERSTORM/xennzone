@@ -19,7 +19,7 @@ getgenv().Configuration = {
 
 getgenv().Keybinds = {
    ["Toggle Reach"] = "R",
-   ["Toggle AC"] = "E",
+   ["Toggle AC"] = "T",
    ["Increase Reach"] = "J",
    ["Decrease Reach"] = "H",
    ["Toggle Script"] = "Z",
